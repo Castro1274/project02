@@ -1,0 +1,30 @@
+
+body {
+	background-color:lightblue;
+}
+.grid{
+	grid-template-columns:10px 50px 50px
+	grid-template-rows;10px 50px 50px
+	display: grid;
+	grid-gap: 50px;
+}
+
+.item1{
+	border: black solid 5px;
+}
+
+.item2{
+	border: black solid 5px;
+}
+
+.item3{
+	border: black solid 5px;
+}
+
+ table,th,td {
+	border: 2px solid black;
+}
+
+ table {
+	 border-collapse: collapse;
+ }

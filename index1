@@ -1,0 +1,41 @@
+<!DOCTYPE>
+<html>
+<link href="style.css" type="text/css" rel="stylesheet">
+<head>
+
+</head>
+ <body>
+ <center>
+ <h1>Albert's Website of Learning</h1>
+ </center>
+ <center>
+ <table>
+ 
+	<th>Algebra</th>
+	<th>Chemistry</th>
+	<th>History</th>
+	<th>Graphic Communications</th>
+	<th>English</th>
+	
+	  <tr> <th> <img src= "https://mathbitsnotebook.com/Algebra2/Images/Algebra2LogoSmall2.jpg">  </th>
+	      <th> <img src= "https://cdn.mos.cms.futurecdn.net/PLcixwv9qrPXCp99jdzw57-320-80.jpg" >   </th>
+		  <th> <img src= "https://www.stephenhicks.org/wp-content/uploads/2018/01/history-books-1024x768.jpg" >  </th>
+		  <th> <img src= "https://icdn6.digitaltrends.com/image/digitaltrends/fujifilm-x-t30-hands-on-7174-2-720x720.jpg" >  </th>
+		  <th> <img src= "https://mythgyaan.com/wp-content/uploads/2018/10/English-flow-1.jpg" > </th> </tr>
+	  <tr>
+         <td>Description: In Algebra we're making a 3D box using domain and range. We have to create a box and wirte the equations line on desmos. We've also been learning about linear and non-linear equations</td>
+	     <td>Description: In Chemistry we did a project about the big bang theory and we had to compare it to another's cultre beliefe of how the world started. We also started using scientific notation to make big numbers or smaller numbers easier to read </td>
+		 <td>Description: In History we've been working on a project about the South American Revolutions and how the Haitian revolution gave slaves the idea to rervolt against their slave owners.</td>
+		 <td>Description: In Graphic Communications we're working on a project called Humans of DVC we interviewd our partner to learn about them and their prespectives about things or people in their lives.</td>
+		 <td>Description: In English we were working on a project on three things in our life that are important to us and have a meaning in our lives.</td>
+		 
+	  <tr> <th> <a href="https://www.desmos.com/calculator/sudtbdqmbn">This is a link to my Algebra Project.</a></th>
+	       <th> <a href="https://www.desmos.com/calculator/sudtbdqmbn">This is a link to my Algebra Project.</a></th>
+		   <th> <a href=</a></th>
+		   <th> <a href="https://docs.google.com/document/d/1yq1XJ5MK0uA5LOJxLyaPlmBKdojeHPHXS-o-dYWsbyY/edit">This is a link to my Graphic Communications Project.</a></th>
+		   <th> <a href="https://docs.google.com/document/d/1tN9VB3o3q4gmWkkarbo2JCm2A2xEm7D_2NIPgKB5tlI/edit">This is a link to my English Project.</a></th>
+	</table>
+	</body>
+	</html>
+	</center>
+	
